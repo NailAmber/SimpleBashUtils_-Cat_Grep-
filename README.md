@@ -1,10 +1,16 @@
 # SimpleBashUtils_-Cat_Grep-
-(In which dir, cat for example)
-for compile:
-Make
+(In each directory. /cat for example).
 
-for testing functions:
-Make test
+For compile program itself:
+```sh
+make
+```
+For test:
+```sh
+make test
+```
 
-for cleaning:
-Make clean
+For cleaning dir from compiling:
+```sh
+make clean
+```
